@@ -10,7 +10,7 @@ This project is a personal portfolio website designed to showcase my skillset in
 
 
 
-![Project Design Overview!]("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtrcTAxMnhuOGRrY3N3cm5oZnl0dDJwdDh5N3lyenZpYXlqdXBmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fTPpZZWigPvidvmdYO/giphy.gif" "gif")
+![Project Design Overview!](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtrcTAxMnhuOGRrY3N3cm5oZnl0dDJwdDh5N3lyenZpYXlqdXBmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fTPpZZWigPvidvmdYO/giphy.gif "gif")
 
 
 
