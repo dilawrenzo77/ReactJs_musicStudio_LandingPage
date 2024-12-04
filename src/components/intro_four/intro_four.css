@@ -1,0 +1,54 @@
+.intro4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+}
+.container1 {
+    background-color: rgb(249, 180, 193);
+    width: 50vw;
+    height: 120vh;
+    margin-right: 650px;
+    overflow-y: hidden;
+}
+.pic1 {
+    object-fit: cover;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 15%;
+    left: 12%;
+}
+.pic2 {
+    object-fit: cover;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 50%;
+    left: 12%;
+}
+.pic3 {
+    object-fit: cover;
+    width: 550px;
+    height: 600px;
+    position: absolute;
+    top: 8%;
+    left: 45%
+}
+.intro4Content {
+    padding-top: 5rem;
+
+}
+.textContent1 {
+    font-weight: 700;
+    font-size: x-large;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.textContent2 {
+    font-weight: 200;
+    font-size: medium;
+    margin-bottom: 10px;
+    text-align: center;
+}

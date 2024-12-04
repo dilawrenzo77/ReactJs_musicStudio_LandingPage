@@ -1,0 +1,47 @@
+.intro2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    margin-top: 200px;
+}
+.cont1 {
+    background-color: beige;
+    height: 40rem;
+    width: 45rem;
+    margin-left: 550px;
+    overflow-y: hidden;
+}
+.intro2Img{
+    object-fit: cover;
+    height: 27rem;
+    width: 25rem;
+    position: absolute;
+    top: 13%;
+    left: 17%;
+}
+.intro2Img2{
+    object-fit: cover;
+    height: 12rem;
+    width: 25rem;
+    position: absolute;
+    top: 25%;
+    left: 55%;
+    z-index: 10;
+}
+.cont {
+    margin-bottom: 120px;
+}
+.textCont1 {
+    font-weight: 700;
+    font-size: x-large;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.textCont2 {
+    font-weight: 200;
+    font-size: medium;
+    margin-bottom: 10px;
+    text-align: center;
+}
